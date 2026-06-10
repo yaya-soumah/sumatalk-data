@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "version": "1.0.0",
+        "last_updated": "2026-06-09"
+    },
+    "modules": [
+        {
+            "module_id": "mod_01",
+            "module_title": "Basic"
+        },
+        {
+            "module_id": "mod_02",
+            "module_title": "Numbers, Dates & Basic Math"
+        },
+        {
+            "module_id": "mod_03",
+            "module_title": "Colors, Shapes & Sizes"
+        },
+        {
+            "module_id": "mod_04",
+            "module_title": "Location & Prepositions of Place"
+        },
+        {
+            "module_id": "mod_05",
+            "module_title": "Everyday Expressions & Feelings"
+        },
+        {
+            "module_id": "mod_06",
+            "module_title": "Family Members & Describing People"
+        },
+        {
+            "module_id": "mod_07",
+            "module_title": "Around the House & Rooms"
+        },
+        {
+            "module_id": "mod_08",
+            "module_title": "Morning & Evening Routines"
+        },
+        {
+            "module_id": "mod_09",
+            "module_title": " Clothes, Laundry & Getting Dressed"
+        },
+        {
+            "module_id": "mod_10",
+            "module_title": "Household Chores & Cleaning"
+        },
+        {
+            "module_id": "mod_11",
+            "module_title": "Daily Family Life"
+        },
+        {
+            "module_id": "mod_12",
+            "module_title": "Time, Weather & Seasons"
+        },
+        {
+            "module_id": "mod_13",
+            "module_title": "Food, Drinks & Restaurants"
+        },
+        {
+            "module_id": "mod_14",
+            "module_title": "Shopping & Money"
+        },
+        {
+            "module_id": "mod_15",
+            "module_title": "Likes, Dislikes & Preferences"
+        },
+        {
+            "module_id": "mod_16",
+            "module_title": "In the City"
+        },
+        {
+            "module_id": "mod_17",
+            "module_title": "School & Learning"
+        },
+        {
+            "module_id": "mod_18",
+            "module_title": "Friends, Neighbors & Social Life"
+        },
+        {
+            "module_id": "mod_19",
+            "module_title": "Pets & Animals at Home"
+        },
+        {
+            "module_id": "mod_20",
+            "module_title": "Hobbies, Sports & Free Time"
+        },
+        {
+            "module_id": "mod_21",
+            "module_title": "Phone Calls, Messages & Digital Life"
+        },
+        {
+            "module_id": "mod_22",
+            "module_title": "Health, Body & Wellness"
+        },
+        {
+            "module_id": "mod_23",
+            "module_title": "At the Doctor's / Pharmacy"
+        },
+        {
+            "module_id": "mod_24",
+            "module_title": "Asking for Directions & Transport"
+        },
+        {
+            "module_id": "mod_25",
+            "module_title": "Making Plans & Invitations"
+        },
+        {
+            "module_id": "mod_26",
+            "module_title": "Celebrations, Holidays & Birthdays"
+        },
+        {
+            "module_id": "mod_27",
+            "module_title": "Present, Past & Future Basics"
+        },
+        {
+            "module_id": "mod_28",
+            "module_title": "Giving Opinions & Simple Arguments"
+        },
+        {
+            "module_id": "mod_29",
+            "module_title": "Work, Jobs & Daily Responsibilities"
+        },
+        {
+            "module_id": "mod_30",
+            "module_title": "Travel, Hotels & Vacations"
+        }
+    ]
+}

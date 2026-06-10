@@ -1,0 +1,86 @@
+{
+    "module_id": "mod_01",
+    "module_title": "Basic",
+    "lessons": [
+        {
+            "lesson_id": "les_01_01",
+            "lesson_title": "Hello and Goodbye"
+        },
+        {
+            "lesson_id": "les_01_02",
+            "lesson_title": "My Name Is…"
+        },
+        {
+            "lesson_id": "les_01_03",
+            "lesson_title": "What Is Your Name?"
+        },
+        {
+            "lesson_id": "les_01_04",
+            "lesson_title": "Where Are You From?"
+        },
+        {
+            "lesson_id": "les_01_05",
+            "lesson_title": "Countries and Nationalities"
+        },
+        {
+            "lesson_id": "les_01_06",
+            "lesson_title": "Languages I Speak"
+        },
+        {
+            "lesson_id": "les_01_07",
+            "lesson_title": "How Old Are You?"
+        },
+        {
+            "lesson_id": "les_01_08",
+            "lesson_title": "My Birthday"
+        },
+        {
+            "lesson_id": "les_01_09",
+            "lesson_title": "Introducing a Friend"
+        },
+        {
+            "lesson_id": "les_01_10",
+            "lesson_title": "Yes / No Questions"
+        },
+        {
+            "lesson_id": "les_01_11",
+            "lesson_title": "Simple WH- Questions"
+        },
+        {
+            "lesson_id": "les_01_12",
+            "lesson_title": "Short Answers"
+        },
+        {
+            "lesson_id": "les_01_13",
+            "lesson_title": "Please and Thank You"
+        },
+        {
+            "lesson_id": "les_01_14",
+            "lesson_title": "Excuse Me and Sorry"
+        },
+        {
+            "lesson_id": "les_01_15",
+            "lesson_title": "Can You Repeat That?"
+        },
+        {
+            "lesson_id": "les_01_16",
+            "lesson_title": "I Don't Understand"
+        },
+        {
+            "lesson_id": "les_01_17",
+            "lesson_title": "Nice to Meet You"
+        },
+        {
+            "lesson_id": "les_01_18",
+            "lesson_title": "Good Morning / Afternoon / Evening"
+        },
+        {
+            "lesson_id": "les_01_19",
+            "lesson_title": "Introducing Yourself in 5 Sentences"
+        },
+        {
+            "lesson_id": "les_01_20",
+            "lesson_title": "First Conversation Challenge"
+        }
+    ]
+}
