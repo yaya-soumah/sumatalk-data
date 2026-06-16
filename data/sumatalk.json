@@ -28,7 +28,7 @@
               "word_id": "w_03",
               "english": "goodbye",
               "chinese": "再见",
-              "audio_url": "les_01_01_w_05_goodbye.mp3"
+              "audio_url": "les_01_01_w_03_goodbye.mp3"
             },
             {
               "word_id": "w_04",
@@ -521,92 +521,92 @@
           ]
         },
         {
-          "lesson_id": "les_02_01",
+          "lesson_id": "les_01_03",
           "lesson_title": "What Is Your Name?",
           "vocabulary": [
             {
               "word_id": "w_01",
               "english": "you",
               "chinese": "你",
-              "audio_url": "les_02_01_w_01_you.mp3"
+              "audio_url": "les_01_03_w_01_you.mp3"
             },
             {
               "word_id": "w_02",
               "english": "call",
               "chinese": "叫",
-              "audio_url": "les_02_01_w_02_call.mp3"
+              "audio_url": "les_01_03_w_02_call.mp3"
             },
             {
               "word_id": "w_03",
               "english": "what",
               "chinese": "什么",
-              "audio_url": "les_02_01_w_03_what.mp3"
+              "audio_url": "les_01_03_w_03_what.mp3"
             },
             {
               "word_id": "w_04",
               "english": "name",
               "chinese": "名字",
-              "audio_url": "les_02_01_w_04_name.mp3"
+              "audio_url": "les_01_03_w_04_name.mp3"
             },
             {
               "word_id": "w_05",
               "english": "I",
               "chinese": "我",
-              "audio_url": "les_02_01_w_05_i.mp3"
+              "audio_url": "les_01_03_w_05_i.mp3"
             },
             {
               "word_id": "w_06",
               "english": "surname",
               "chinese": "姓",
-              "audio_url": "les_02_01_w_06_surname.mp3"
+              "audio_url": "les_01_03_w_06_surname.mp3"
             },
             {
               "word_id": "w_07",
               "english": "hello",
               "chinese": "你好",
-              "audio_url": "les_02_01_w_07_hello.mp3"
+              "audio_url": "les_01_03_w_07_hello.mp3"
             },
             {
               "word_id": "w_08",
               "english": "he",
               "chinese": "他",
-              "audio_url": "les_02_01_w_08_he.mp3"
+              "audio_url": "les_01_03_w_08_he.mp3"
             },
             {
               "word_id": "w_09",
               "english": "she",
               "chinese": "她",
-              "audio_url": "les_02_01_w_09_she.mp3"
+              "audio_url": "les_01_03_w_09_she.mp3"
             },
             {
               "word_id": "w_10",
               "english": "and you",
               "chinese": "呢",
-              "audio_url": "les_02_01_w_10_and_you.mp3"
+              "audio_url": "les_01_03_w_10_and_you.mp3"
             },
             {
               "word_id": "w_11",
               "english": "very",
               "chinese": "很",
-              "audio_url": "les_02_01_w_11_very.mp3"
+              "audio_url": "les_01_03_w_11_very.mp3"
             },
             {
               "word_id": "w_12",
               "english": "glad",
               "chinese": "高兴",
-              "audio_url": "les_02_01_w_12_glad.mp3"
+              "audio_url": "les_01_03_w_12_glad.mp3"
             },
             {
               "word_id": "w_13",
               "english": "meet",
               "chinese": "认识",
-              "audio_url": "les_02_01_w_13_meet.mp3"
+              "audio_url": "les_01_03_w_13_meet.mp3"
             },
             {
               "word_id": "w_14",
               "english": "also",
               "chinese": "也",
-              "audio_url": "les_02_01_w_14_also.mp3"
+              "audio_url": "les_01_03_w_14_also.mp3"
             }
           ],
           "sentences": [
@@ -614,91 +614,91 @@
               "sentence_id": "s_01",
               "english": "Hello!",
               "chinese": "你好！",
-              "audio_url": "les_02_01_s_01_hello.mp3"
+              "audio_url": "les_01_03_s_01_hello.mp3"
             },
             {
               "sentence_id": "s_02",
               "english": "What is your name?",
               "chinese": "你叫什么名字？",
-              "audio_url": "les_02_01_s_02_what_is_your_name.mp3"
+              "audio_url": "les_01_03_s_02_what_is_your_name.mp3"
             },
             {
               "sentence_id": "s_03",
               "english": "My name is Li Hua.",
               "chinese": "我叫李华。",
-              "audio_url": "les_02_01_s_03_my_name_is_li_hua.mp3"
+              "audio_url": "les_01_03_s_03_my_name_is_li_hua.mp3"
             },
             {
               "sentence_id": "s_04",
               "english": "What is his name?",
               "chinese": "他叫什么名字？",
-              "audio_url": "les_02_01_s_04_what_is_his_name.mp3"
+              "audio_url": "les_01_03_s_04_what_is_his_name.mp3"
             },
             {
               "sentence_id": "s_05",
               "english": "His name is Wang Ming.",
               "chinese": "他叫王明。",
-              "audio_url": "les_02_01_s_05_his_name_is_wang_min.mp3"
+              "audio_url": "les_01_03_s_05_his_name_is_wang_min.mp3"
             },
             {
               "sentence_id": "s_06",
               "english": "What is her name?",
               "chinese": "她叫什么名字？",
-              "audio_url": "les_02_01_s_06_what_is_her_name.mp3"
+              "audio_url": "les_01_03_s_06_what_is_her_name.mp3"
             },
             {
               "sentence_id": "s_07",
               "english": "Her name is Wang Ling.",
               "chinese": "她叫王玲。",
-              "audio_url": "les_02_01_s_07_her_name_is_wang_lin.mp3"
+              "audio_url": "les_01_03_s_07_her_name_is_wang_lin.mp3"
             },
             {
               "sentence_id": "s_08",
               "english": "What is your surname?",
               "chinese": "你姓什么？",
-              "audio_url": "les_02_01_s_08_what_is_your_surname.mp3"
+              "audio_url": "les_01_03_s_08_what_is_your_surname.mp3"
             },
             {
               "sentence_id": "s_09",
               "english": "My surname is Zhang.",
               "chinese": "我姓张。",
-              "audio_url": "les_02_01_s_09_my_surname_is_zhang.mp3"
+              "audio_url": "les_01_03_s_09_my_surname_is_zhang.mp3"
             },
             {
               "sentence_id": "s_10",
               "english": "My surname is Zhang, and my name is Zhang San.",
               "chinese": "我姓张，叫张三。",
-              "audio_url": "les_02_01_s_10_my_surname_is_zhang_.mp3"
+              "audio_url": "les_01_03_s_10_my_surname_is_zhang_.mp3"
             },
             {
               "sentence_id": "s_11",
               "english": "I am Li Hua, and you?",
               "chinese": "我叫李华，你呢？",
-              "audio_url": "les_02_01_s_11_i_am_li_hua_and_you.mp3"
+              "audio_url": "les_01_03_s_11_i_am_li_hua_and_you.mp3"
             },
             {
               "sentence_id": "s_12",
               "english": "Glad to meet you.",
               "chinese": "认识你很高兴。",
-              "audio_url": "les_02_01_s_12_glad_to_meet_you.mp3"
+              "audio_url": "les_01_03_s_12_glad_to_meet_you.mp3"
             },
             {
               "sentence_id": "s_13",
               "english": "I am also very glad to meet you.",
               "chinese": "认识你我也很高兴。",
-              "audio_url": "les_02_01_s_13_i_am_also_very_glad_.mp3"
+              "audio_url": "les_01_03_s_13_i_am_also_very_glad_.mp3"
             },
             {
               "sentence_id": "s_14",
               "english": "Hello, what is your Chinese name?",
               "chinese": "你好，你叫什么中文名字？",
-              "audio_url": "les_02_01_s_14_hello_what_is_your_c.mp3"
+              "audio_url": "les_01_03_s_14_hello_what_is_your_c.mp3"
             },
             {
               "sentence_id": "s_15",
               "english": "My surname is Wang, what is his surname?",
               "chinese": "我姓王，他姓什么？",
-              "audio_url": "les_02_01_s_15_my_surname_is_wang_w.mp3"
+              "audio_url": "les_01_03_s_15_my_surname_is_wang_w.mp3"
             }
           ],
           "conversation_script": [
@@ -706,97 +706,97 @@
               "role": "A",
               "text_en": "Hello!",
               "text_zh": "你好！",
-              "audio_url": "les_02_01_dialogue_0_hello.mp3"
+              "audio_url": "les_01_03_dialogue_0_hello.mp3"
             },
             {
               "role": "B",
               "text_en": "Hello!",
               "text_zh": "你好！",
-              "audio_url": "les_02_01_dialogue_1_hello.mp3"
+              "audio_url": "les_01_03_dialogue_1_hello.mp3"
             },
             {
               "role": "A",
               "text_en": "What is your name?",
               "text_zh": "你叫什么名字？",
-              "audio_url": "les_02_01_dialogue_2_what_is_your_name.mp3"
+              "audio_url": "les_01_03_dialogue_2_what_is_your_name.mp3"
             },
             {
               "role": "B",
               "text_en": "My name is David. And you?",
               "text_zh": "我叫大卫。你呢？",
-              "audio_url": "les_02_01_dialogue_3_my_name_is_david_and.mp3"
+              "audio_url": "les_01_03_dialogue_3_my_name_is_david_and.mp3"
             },
             {
               "role": "A",
               "text_en": "My name is Li Hua. What is your surname?",
               "text_zh": "我叫李华。你姓什么？",
-              "audio_url": "les_02_01_dialogue_4_my_name_is_li_hua_wh.mp3"
+              "audio_url": "les_01_03_dialogue_4_my_name_is_li_hua_wh.mp3"
             },
             {
               "role": "B",
               "text_en": "My surname is Smith.",
               "text_zh": "我姓史密斯。",
-              "audio_url": "les_02_01_dialogue_5_my_surname_is_smith.mp3"
+              "audio_url": "les_01_03_dialogue_5_my_surname_is_smith.mp3"
             },
             {
               "role": "A",
               "text_en": "Glad to meet you, David.",
               "text_zh": "认识你很高兴，大卫。",
-              "audio_url": "les_02_01_dialogue_6_glad_to_meet_you_dav.mp3"
+              "audio_url": "les_01_03_dialogue_6_glad_to_meet_you_dav.mp3"
             },
             {
               "role": "B",
               "text_en": "I am also very glad to meet you.",
               "text_zh": "认识你我也很高兴。",
-              "audio_url": "les_02_01_dialogue_7_i_am_also_very_glad_.mp3"
+              "audio_url": "les_01_03_dialogue_7_i_am_also_very_glad_.mp3"
             },
             {
               "role": "A",
               "text_en": "Who is she?",
               "text_zh": "她是谁？",
-              "audio_url": "les_02_01_dialogue_8_who_is_she.mp3"
+              "audio_url": "les_01_03_dialogue_8_who_is_she.mp3"
             },
             {
               "role": "B",
               "text_en": "She is my friend. Her name is Anna.",
               "text_zh": "她是我朋友。她叫安娜。",
-              "audio_url": "les_02_01_dialogue_9_she_is_my_friend_her.mp3"
+              "audio_url": "les_01_03_dialogue_9_she_is_my_friend_her.mp3"
             },
             {
               "role": "A",
               "text_en": "What is her Chinese name?",
               "text_zh": "她叫什么中文名字？",
-              "audio_url": "les_02_01_dialogue_10_what_is_her_chinese_.mp3"
+              "audio_url": "les_01_03_dialogue_10_what_is_her_chinese_.mp3"
             },
             {
               "role": "B",
               "text_en": "Her Chinese name is Wang Ling.",
               "text_zh": "她的中文名字叫王玲。",
-              "audio_url": "les_02_01_dialogue_11_her_chinese_name_is_.mp3"
+              "audio_url": "les_01_03_dialogue_11_her_chinese_name_is_.mp3"
             },
             {
               "role": "A",
               "text_en": "Her surname is Wang?",
               "text_zh": "她姓王吗？",
-              "audio_url": "les_02_01_dialogue_12_her_surname_is_wang.mp3"
+              "audio_url": "les_01_03_dialogue_12_her_surname_is_wang.mp3"
             },
             {
               "role": "B",
               "text_en": "Yes, her surname is Wang.",
               "text_zh": "对，她姓王。",
-              "audio_url": "les_02_01_dialogue_13_yes_her_surname_is_w.mp3"
+              "audio_url": "les_01_03_dialogue_13_yes_her_surname_is_w.mp3"
             },
             {
               "role": "A",
               "text_en": "Great, let's go say hello to her.",
               "text_zh": "太好了，我们去跟她打个招呼吧。",
-              "audio_url": "les_02_01_dialogue_14_great_lets_go_say_he.mp3"
+              "audio_url": "les_01_03_dialogue_14_great_lets_go_say_he.mp3"
             },
             {
               "role": "B",
               "text_en": "Okay, let's go.",
               "text_zh": "好，我们走吧。",
-              "audio_url": "les_02_01_dialogue_15_okay_lets_go.mp3"
+              "audio_url": "les_01_03_dialogue_15_okay_lets_go.mp3"
             }
           ]
         },
