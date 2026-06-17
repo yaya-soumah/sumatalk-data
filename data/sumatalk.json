@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_updated": "2026-06-16"
+    "last_updated": "2026-06-17"
   },
   "modules": [
     {
@@ -5598,7 +5598,7 @@
               "word_id": "w_08",
               "english": "seven",
               "chinese": "七",
-              "audio_url": "les_02_01_w_08_seven.mp3"
+              "audio_url": "3"
             },
             {
               "word_id": "w_09",
@@ -5732,7 +5732,7 @@
               "sentence_id": "s_15",
               "english": "Learning numbers is important.",
               "chinese": "学习数字很重要。",
-              "audio_url": "les_02_01_s_15_learning_numbers_is_.mp3"
+              "audio_url": "3"
             }
           ],
           "conversation_script": [
@@ -12129,6 +12129,280 @@
               "text_en": "Yes, we see them every day.",
               "text_zh": "是的，我们每天都能看到它们。",
               "audio_url": "les_03_04_dialogue_15_yes_we_see_them_ever.mp3"
+            }
+          ]
+        },
+        {
+          "lesson_id": "les_03_05",
+          "lesson_title": "Round, Square, and Rectangular",
+          "vocabulary": [
+            {
+              "word_id": "w_01",
+              "english": "shape",
+              "chinese": "形状",
+              "audio_url": "les_03_05_w_01_shape.mp3"
+            },
+            {
+              "word_id": "w_02",
+              "english": "round",
+              "chinese": "圆形",
+              "audio_url": "les_03_05_w_02_round.mp3"
+            },
+            {
+              "word_id": "w_03",
+              "english": "square",
+              "chinese": "方形",
+              "audio_url": "les_03_05_w_03_square.mp3"
+            },
+            {
+              "word_id": "w_04",
+              "english": "rectangular",
+              "chinese": "长方形",
+              "audio_url": "les_03_05_w_04_rectangular.mp3"
+            },
+            {
+              "word_id": "w_05",
+              "english": "table",
+              "chinese": "桌子",
+              "audio_url": "les_03_05_w_05_table.mp3"
+            },
+            {
+              "word_id": "w_06",
+              "english": "box",
+              "chinese": "箱子",
+              "audio_url": "les_03_05_w_06_box.mp3"
+            },
+            {
+              "word_id": "w_07",
+              "english": "window",
+              "chinese": "窗户",
+              "audio_url": "les_03_05_w_07_window.mp3"
+            },
+            {
+              "word_id": "w_08",
+              "english": "clock",
+              "chinese": "钟",
+              "audio_url": "les_03_05_w_08_clock.mp3"
+            },
+            {
+              "word_id": "w_09",
+              "english": "book",
+              "chinese": "书",
+              "audio_url": "les_03_05_w_09_book.mp3"
+            },
+            {
+              "word_id": "w_10",
+              "english": "plate",
+              "chinese": "盘子",
+              "audio_url": "les_03_05_w_10_plate.mp3"
+            },
+            {
+              "word_id": "w_11",
+              "english": "this",
+              "chinese": "这",
+              "audio_url": "les_03_05_w_11_this.mp3"
+            },
+            {
+              "word_id": "w_12",
+              "english": "that",
+              "chinese": "那",
+              "audio_url": "les_03_05_w_12_that.mp3"
+            },
+            {
+              "word_id": "w_13",
+              "english": "have",
+              "chinese": "有",
+              "audio_url": "les_03_05_w_13_have.mp3"
+            }
+          ],
+          "sentences": [
+            {
+              "sentence_id": "s_01",
+              "english": "This is round.",
+              "chinese": "这个是圆形的。",
+              "audio_url": "les_03_05_s_01_this_is_round.mp3"
+            },
+            {
+              "sentence_id": "s_02",
+              "english": "That is square.",
+              "chinese": "那个是方形的。",
+              "audio_url": "les_03_05_s_02_that_is_square.mp3"
+            },
+            {
+              "sentence_id": "s_03",
+              "english": "It is rectangular.",
+              "chinese": "它是长方形的。",
+              "audio_url": "les_03_05_s_03_it_is_rectangular.mp3"
+            },
+            {
+              "sentence_id": "s_04",
+              "english": "The clock is round.",
+              "chinese": "钟是圆形的。",
+              "audio_url": "les_03_05_s_04_the_clock_is_round.mp3"
+            },
+            {
+              "sentence_id": "s_05",
+              "english": "The table is square.",
+              "chinese": "桌子是方形的。",
+              "audio_url": "les_03_05_s_05_the_table_is_square.mp3"
+            },
+            {
+              "sentence_id": "s_06",
+              "english": "This box is rectangular.",
+              "chinese": "这个箱子是长方形的。",
+              "audio_url": "les_03_05_s_06_this_box_is_rectangu.mp3"
+            },
+            {
+              "sentence_id": "s_07",
+              "english": "What shape is this?",
+              "chinese": "这是什么形状？",
+              "audio_url": "les_03_05_s_07_what_shape_is_this.mp3"
+            },
+            {
+              "sentence_id": "s_08",
+              "english": "My book is rectangular.",
+              "chinese": "我的书是长方形的。",
+              "audio_url": "les_03_05_s_08_my_book_is_rectangul.mp3"
+            },
+            {
+              "sentence_id": "s_09",
+              "english": "The plate is not square.",
+              "chinese": "盘子不是方形的。",
+              "audio_url": "les_03_05_s_09_the_plate_is_not_squ.mp3"
+            },
+            {
+              "sentence_id": "s_10",
+              "english": "The room has square windows.",
+              "chinese": "房间有方形的窗户。",
+              "audio_url": "les_03_05_s_10_the_room_has_square_.mp3"
+            },
+            {
+              "sentence_id": "s_11",
+              "english": "Is that round plate yours?",
+              "chinese": "那个圆形的盘子是你的吗？",
+              "audio_url": "les_03_05_s_11_is_that_round_plate_.mp3"
+            },
+            {
+              "sentence_id": "s_12",
+              "english": "This rectangular table is very big.",
+              "chinese": "这张长方形的桌子很大。",
+              "audio_url": "les_03_05_s_12_this_rectangular_tab.mp3"
+            },
+            {
+              "sentence_id": "s_13",
+              "english": "I want to buy a square clock.",
+              "chinese": "我想买一个方形的钟。",
+              "audio_url": "les_03_05_s_13_i_want_to_buy_a_squa.mp3"
+            },
+            {
+              "sentence_id": "s_14",
+              "english": "Are the books inside the box rectangular?",
+              "chinese": "箱子里的书是长方形的吗？",
+              "audio_url": "les_03_05_s_14_are_the_books_inside.mp3"
+            },
+            {
+              "sentence_id": "s_15",
+              "english": "His house has many round and square shapes.",
+              "chinese": "他的房子里有很多圆形和方形的形状。",
+              "audio_url": "les_03_05_s_15_his_house_has_many_r.mp3"
+            }
+          ],
+          "conversation_script": [
+            {
+              "role": "A",
+              "text_en": "Look at this table. What shape is it?",
+              "text_zh": "看这张桌子。它是什么形状？",
+              "audio_url": "les_03_05_dialogue_0_look_at_this_table_w.mp3"
+            },
+            {
+              "role": "B",
+              "text_en": "This table is rectangular. Do you like it?",
+              "text_zh": "这张桌子是长方形的。你喜欢吗？",
+              "audio_url": "les_03_05_dialogue_1_this_table_is_rectan.mp3"
+            },
+            {
+              "role": "A",
+              "text_en": "I like it, but my room has a square table.",
+              "text_zh": "我喜欢，但是我的房间有一张方形的桌子。",
+              "audio_url": "les_03_05_dialogue_2_i_like_it_but_my_roo.mp3"
+            },
+            {
+              "role": "B",
+              "text_en": "A square table is also very good. What about that clock?",
+              "text_zh": "方形的桌子也很好。那个钟呢？",
+              "audio_url": "les_03_05_dialogue_3_a_square_table_is_al.mp3"
+            },
+            {
+              "role": "A",
+              "text_en": "The clock on the wall is round.",
+              "text_zh": "墙上的钟是圆形的。",
+              "audio_url": "les_03_05_dialogue_4_the_clock_on_the_wal.mp3"
+            },
+            {
+              "role": "B",
+              "text_en": "My school also has a big round clock.",
+              "text_zh": "我们学校也有一个大的圆形钟。",
+              "audio_url": "les_03_05_dialogue_5_my_school_also_has_a.mp3"
+            },
+            {
+              "role": "A",
+              "text_en": "Look inside this box. There are many plates.",
+              "text_zh": "看这个箱子 trade 里面。有很多盘子。",
+              "audio_url": "les_03_05_dialogue_6_look_inside_this_box.mp3"
+            },
+            {
+              "role": "B",
+              "text_en": "Are these plates round or square?",
+              "text_zh": "这些盘子是圆形的还是方形的？",
+              "audio_url": "les_03_05_dialogue_7_are_these_plates_rou.mp3"
+            },
+            {
+              "role": "A",
+              "text_en": "These small plates are all round.",
+              "text_zh": "这些小盘子全都是圆形的。",
+              "audio_url": "les_03_05_dialogue_8_these_small_plates_a.mp3"
+            },
+            {
+              "role": "B",
+              "text_en": "They look beautiful. Is that a rectangular book?",
+              "text_zh": "它们看起来很漂亮。那是一本长方形的书吗？",
+              "audio_url": "les_03_05_dialogue_9_they_look_beautiful_.mp3"
+            },
+            {
+              "role": "A",
+              "text_en": "Yes, it is my new Chinese book.",
+              "text_zh": "对，这是我的新中文书。",
+              "audio_url": "les_03_05_dialogue_10_yes_it_is_my_new_chi.mp3"
+            },
+            {
+              "role": "B",
+              "text_en": "The shape of this book is very nice.",
+              "text_zh": "这本书的形状很好看。",
+              "audio_url": "les_03_05_dialogue_11_the_shape_of_this_bo.mp3"
+            },
+            {
+              "role": "A",
+              "text_en": "Are the windows in your room rectangular too?",
+              "text_zh": "你房间的窗户也是长方形的吗？",
+              "audio_url": "les_03_05_dialogue_12_are_the_windows_in_y.mp3"
+            },
+            {
+              "role": "B",
+              "text_en": "No, the windows in my room are square.",
+              "text_zh": "不是，我房间的窗户是方形的。",
+              "audio_url": "les_03_05_dialogue_13_no_the_windows_in_my.mp3"
+            },
+            {
+              "role": "A",
+              "text_en": "I see. Let's put the books on the table now.",
+              "text_zh": "我懂了。我们现在把书放在桌子上吧。",
+              "audio_url": "les_03_05_dialogue_14_i_see_lets_put_the_b.mp3"
+            },
+            {
+              "role": "B",
+              "text_en": "Okay, let's put them together here.",
+              "text_zh": "好，我们一起放在这儿吧。",
+              "audio_url": "les_03_05_dialogue_15_okay_lets_put_them_t.mp3"
             }
           ]
         },
